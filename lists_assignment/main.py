@@ -86,13 +86,5 @@ if __name__ == '__main__':
             print("|    restock     |       display     |      sell_last_item       |        sell_any_item      |\n")
 
 
-    populate_the_store()
-    restock_the_store()
-    display_all_items()
-    sell_last_item()
-    display_all_items()
-    sell_by_search()
-    display_all_items()
-
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
