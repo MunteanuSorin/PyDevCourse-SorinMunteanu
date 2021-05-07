@@ -9,9 +9,6 @@ infinite_loop = 1
 #list with all the items in the store [item, size]
 full_list_of_items = []
 
-#Tuple with user options
-user_option = ("restock", "display", "sell_last_item", "sell_any_item")
-
 #Function that initializes the store with the standard stock
 def populate_the_store():
     list_of_item_types = ['shirt', 'scarf', 'glove', 'hat']
